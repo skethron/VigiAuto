@@ -1,0 +1,28 @@
+arquivo,arquivo_original,origem,placa,formato,linhas,tipo,veiculo,observacao,x1,y1,x2,y2,rotacao,grupo,split,status
+L2-001.jpeg,Screenshot_2026-10-21-20-37-28-550_br.com.vigiauto.jpg,TREINO IA,FLG2C26,Mercosul,1,carro,Hatch branco,Traseira; captura de tela,920,1654,1034,1704,0,g01,treino,confirmado
+L2-002.jpeg,Screenshot_2026-10-21-20-37-22-525_br.com.vigiauto.jpg,TREINO IA,ERZ3G63,Mercosul,1,carro,Sedan escuro,Traseira; OCR atual leu ER23G63,846,1846,964,1916,0,g02,validacao,confirmado
+L2-003.jpeg,Screenshot_2026-10-21-20-37-16-036_br.com.vigiauto.jpg,TREINO IA,GJK7C04,Mercosul,1,carro,Hatch branco,Traseira,608,1634,778,1700,0,g03,treino,confirmado
+L2-004.jpeg,Screenshot_2026-10-21-20-37-07-327_br.com.vigiauto.jpg,TREINO IA,TYP4I65,Mercosul,1,carro,Hatch branco,Traseira,778,1632,926,1700,0,g04,treino,confirmado
+L2-005.jpeg,Screenshot_2026-10-21-20-37-37-201_br.com.vigiauto.jpg,TREINO IA,FVF2A74,Mercosul,1,carro,Hatch branco,Traseira,660,1798,832,1862,0,g05,treino,confirmado
+L2-006.jpeg,Screenshot_2026-10-21-20-36-56-285_br.com.vigiauto.jpg,TREINO IA,GBI8D31,Mercosul,1,carro,Hatch preto,Traseira,796,1510,980,1586,0,g06,treino,confirmado
+L2-007.jpeg,Screenshot_2026-10-21-20-36-50-241_br.com.vigiauto.jpg,TREINO IA,FST7115,Antiga,1,carro,Hatch prata,Traseira,652,1444,796,1504,0,g07,treino,confirmado
+L2-008.jpeg,Screenshot_2026-10-21-20-36-43-519_br.com.vigiauto.jpg,TREINO IA,TJY5G53,Mercosul,2,moto,Motocicleta,Placa de moto em duas linhas; close lateral,236,1206,626,1518,0,g08,treino,confirmado
+L2-009.jpeg,Screenshot_2026-10-21-20-36-37-956_br.com.vigiauto.jpg,TREINO IA,GGF2554,Antiga,1,carro,Fiat Argo vermelho,Traseira; mesma placa/cena da imagem 21,492,1722,640,1788,0,g09,teste,confirmado
+L2-010.jpeg,Screenshot_2026-10-21-20-36-32-090_br.com.vigiauto.jpg,TREINO IA,PWJ8089,Antiga,1,carro,Hatch preto,Traseira,892,1320,1028,1384,0,g10,treino,confirmado
+L2-011.jpeg,Screenshot_2026-10-21-20-37-02-850_br.com.vigiauto.jpg,TREINO IA,FXW6J24,Mercosul,1,carro,SUV branco,Traseira,854,1650,1046,1742,0,g11,treino,confirmado
+L2-012.jpeg,Screenshot_2026-10-21-20-35-49-810_br.com.vigiauto.jpg,TREINO IA,DEN3G89,Mercosul,1,carro,Carro branco,Traseira,728,2052,1000,2172,0,g12,treino,confirmado
+L2-013.jpeg,Screenshot_2026-10-21-20-35-27-418_br.com.vigiauto.jpg,TREINO IA,EGA5795,Antiga,1,moto,Motocicleta,Placa de moto rotacionada 180 graus; OCR atual leu 56L54133,610,1760,840,2010,180,g13,teste,confirmado
+L2-014.jpeg,Screenshot_2026-10-21-20-35-21-390_br.com.vigiauto.jpg,TREINO IA,TLL3F44,Mercosul,1,carro,Ford EcoSport cinza,Traseira; baixa resolucao,646,1658,728,1706,0,g14,treino,confirmado
+L2-015.jpeg,Screenshot_2026-10-21-20-35-02-461_br.com.vigiauto.jpg,TREINO IA,STH5H33,Mercosul,1,carro,Van branca,Traseira; placa conferida STH5H33 (antes STH6H33),174,2018,298,2092,0,g15,treino,confirmado
+L2-016.jpeg,Screenshot_2026-10-21-20-34-46-497_br.com.vigiauto.jpg,TREINO IA,FNO3A80,Mercosul,1,carro,Hatch prata,Traseira,502,1494,682,1572,0,g16,treino,confirmado
+L2-017.jpeg,Screenshot_2026-10-21-20-36-06-179_br.com.vigiauto.jpg,TREINO IA,EZE6390,Antiga,1,carro,Hatch vermelho,Traseira; OCR atual leu ZE6390,880,1904,1034,1976,0,g17,validacao,confirmado
+L2-018.jpeg,Screenshot_2026-10-21-20-34-31-768_br.jpg,TREINO IA,GHF0372,Antiga,1,carro,Hatch branco,Traseira,938,1868,1080,1940,0,g18,treino,confirmado
+L2-019.jpeg,Screenshot_2026-10-21-20-34-25-174_br.jpg,TREINO IA,DOS5108,Antiga,1,carro,Hatch escuro,Traseira; 1001073169.jpg é uma duplicata idêntica desta cena,862,1876,988,1930,0,g19,treino,confirmado
+L2-020.jpeg,Screenshot_2026-10-21-20-33-58-853_br.com.vigiauto.jpg,TREINO IA,DMV7028,Antiga,1,carro,SUV branco,Traseira,602,1702,886,1810,0,g20,treino,confirmado
+L2-021.jpeg,Screenshot_2026-10-21-20-33-41-537_br.jpg,TREINO IA,GGF2554,Antiga,1,carro,Fiat Argo vermelho,Mesma placa/cena da imagem 09,956,1862,1092,1930,0,g09,teste,confirmado
+L2-022.jpeg,Screenshot_2026-10-21-20-34-38-644_br.com.vigiauto.jpg,TREINO IA,SUP0B93,Mercosul,2,moto,Motocicleta,Placa de moto em duas linhas; detector atual nao detectou,778,1398,888,1494,0,g22,teste,confirmado
+L2-023.jpeg,Screenshot_2026-10-21-20-33-22-866_br.jpg,TREINO IA,SWR3C57,Mercosul,1,carro,Toyota Corolla Cross branco,Leitura confirmada em alta resolução: SWR3C57; OCR anterior leu KMAJE57,1024,1576,1134,1626,0,g23,teste,confirmado
+L2-024.jpeg,Screenshot_2026-10-21-20-33-15-222_br.jpg,TREINO IA,OEN2H76,Mercosul,1,carro,Hyundai Tucson preto,Traseira; OCR atual leu OENZH76,694,1652,780,1696,0,g24,treino,confirmado
+L2-025.jpeg,Screenshot_2026-10-21-20-33-09-800_br.jpg,TREINO IA,DRB7197,Antiga,1,carro,Renault Duster prata,Traseira; detector atual nao detectou,540,1564,668,1616,0,g25,validacao,confirmado
+L2-026.jpeg,Screenshot_2026-10-21-20-33-28-287_br.jpg,TREINO IA,FZJ5118,Antiga,1,carro,Hyundai HB20 branco,Placa completa confirmada em alta resolução: FZJ5118; antes tratada como parcial,666,1634,778,1700,0,g26,teste,confirmado
+L2-027.jpeg,Screenshot_2026-10-21-20-32-50-758_br.jpg,TREINO IA,EFR8092,Antiga,1,carro,Hatch prata,Traseira; placa antiga; cena nova em alta resolução; detector atual detectou EFR8092,323,1338,825,1513,0,g27,treino,confirmado

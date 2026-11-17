@@ -1,0 +1,42 @@
+{
+  "labels": "C:\\Users\\Guilherme\\Documents\\VigiAuto\\dataset\\level2\\labels.csv",
+  "images": "C:\\Users\\Guilherme\\Documents\\VigiAuto\\dataset\\level2\\images",
+  "total": 27,
+  "splits": {
+    "ignorar": 0,
+    "teste": 6,
+    "treino": 18,
+    "validacao": 3
+  },
+  "status": {
+    "confirmado": 27,
+    "parcial": 0,
+    "prelabel": 0,
+    "revisar": 0
+  },
+  "plate_formats": {
+    "Mercosul": 15,
+    "Antiga": 12,
+    "Indefinido": 0
+  },
+  "plate_width_px": {
+    "mean": 173.85,
+    "p50": 144.0,
+    "p90": 284.0,
+    "min": 82.0,
+    "max": 502.0
+  },
+  "plate_height_px": {
+    "mean": 89.44,
+    "min": 44.0,
+    "max": 312.0
+  },
+  "sharpness": {
+    "mean": 406.68,
+    "p10": 162.12
+  },
+  "errors": [],
+  "warnings": [
+    "linha 13 (L2-013.jpeg): proporcao incomum da caixa (0.92)"
+  ]
+}
